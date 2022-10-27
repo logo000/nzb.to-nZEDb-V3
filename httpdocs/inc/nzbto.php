@@ -2,7 +2,7 @@
 include INC_DIR . '/simple_html_dom.php';
 
 class NZBTO {
-  private $baseURL = "http://giesn3ivtzp5z2us.onion/";
+  private $baseURL = "http://lqbbuyrhmckudmvpbdve732raravi4g6bqigof35bsbhgdjbjfnqp6yd.onion/";
 
 	private $useProxy = true;
 	private $proxy = TORPROXY;
