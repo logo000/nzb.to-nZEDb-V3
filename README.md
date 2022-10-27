@@ -1,6 +1,11 @@
+Dieser Fork ist kompatibel zu der V3 Version von NZB DARK-ONION (NZB.to). Großen Dank an nilleiz für sein Workaround und Cytec für seine großartiges Werk.
+
+
+
 # nzb.to nZEDb Proxy
 
 This is a simple Proxy which translates nzb.to requests to a nZEDb like format for sonarr, radarr, SickRage etc...
+
 
 ## requirements
 
