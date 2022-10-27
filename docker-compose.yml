@@ -9,15 +9,19 @@ services:
       - .:/var/www
     networks:
       - nzbproxy
+    environment:
+      - TZ='Europe/Berlin'
 
   torproxy:
-    image: peterdavehello/tor-socks-proxy
+    image: dperson/torproxy
     ports:
-      - "9150:9150"
+      - "9050:9050"
     networks:
       - nzbproxy
     depends_on:
       - nzbtoproxy
+    environment:
+      - TZ='Europe/Berlin'
 
 networks:
   nzbproxy:
