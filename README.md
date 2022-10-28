@@ -1,4 +1,4 @@
-Dieser Fork ist kompatibel zu der V3 Version von NZB DARK-ONION (NZB.to). Großen Dank an nilleiz für sein Workaround und Cytec für seine großartiges Werk.
+Dieser Fork ist kompatibel zu der V3 Version von NZB DARK-ONION (NZB.to). Großen Dank an nilleiz für sein Workaround und Cytec für sein großartiges Werk.
 
 
 
